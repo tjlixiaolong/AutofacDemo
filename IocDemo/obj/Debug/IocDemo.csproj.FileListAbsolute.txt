@@ -1,0 +1,6 @@
+D:\软件包\AutofacDemo\IocDemo\bin\Debug\IocDemo.exe.config
+D:\软件包\AutofacDemo\IocDemo\bin\Debug\IocDemo.exe
+D:\软件包\AutofacDemo\IocDemo\bin\Debug\IocDemo.pdb
+D:\软件包\AutofacDemo\IocDemo\obj\Debug\IocDemo.csprojResolveAssemblyReference.cache
+D:\软件包\AutofacDemo\IocDemo\obj\Debug\IocDemo.exe
+D:\软件包\AutofacDemo\IocDemo\obj\Debug\IocDemo.pdb
