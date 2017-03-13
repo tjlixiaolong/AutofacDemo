@@ -1,0 +1,5 @@
+D:\软件包\AutofacDemo\FakeAutofac\bin\Debug\FakeAutofac.dll
+D:\软件包\AutofacDemo\FakeAutofac\bin\Debug\FakeAutofac.pdb
+D:\软件包\AutofacDemo\FakeAutofac\obj\Debug\FakeAutofac.csprojResolveAssemblyReference.cache
+D:\软件包\AutofacDemo\FakeAutofac\obj\Debug\FakeAutofac.dll
+D:\软件包\AutofacDemo\FakeAutofac\obj\Debug\FakeAutofac.pdb
