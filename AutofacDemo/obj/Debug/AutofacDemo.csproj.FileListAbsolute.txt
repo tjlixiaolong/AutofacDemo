@@ -1,0 +1,10 @@
+D:\软件包\AutofacDemo\AutofacDemo\bin\Debug\AutofacDemo.exe.config
+D:\软件包\AutofacDemo\AutofacDemo\bin\Debug\AutofacDemo.exe
+D:\软件包\AutofacDemo\AutofacDemo\bin\Debug\AutofacDemo.pdb
+D:\软件包\AutofacDemo\AutofacDemo\bin\Debug\Autofac.dll
+D:\软件包\AutofacDemo\AutofacDemo\bin\Debug\FakeAutofac.dll
+D:\软件包\AutofacDemo\AutofacDemo\bin\Debug\FakeAutofac.pdb
+D:\软件包\AutofacDemo\AutofacDemo\bin\Debug\Autofac.xml
+D:\软件包\AutofacDemo\AutofacDemo\obj\Debug\AutofacDemo.csprojResolveAssemblyReference.cache
+D:\软件包\AutofacDemo\AutofacDemo\obj\Debug\AutofacDemo.exe
+D:\软件包\AutofacDemo\AutofacDemo\obj\Debug\AutofacDemo.pdb
