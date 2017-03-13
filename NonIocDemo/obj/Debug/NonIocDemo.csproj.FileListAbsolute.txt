@@ -1,0 +1,6 @@
+D:\软件包\AutofacDemo\NonIocDemo\bin\Debug\NonIocDemo.exe.config
+D:\软件包\AutofacDemo\NonIocDemo\bin\Debug\NonIocDemo.exe
+D:\软件包\AutofacDemo\NonIocDemo\bin\Debug\NonIocDemo.pdb
+D:\软件包\AutofacDemo\NonIocDemo\obj\Debug\NonIocDemo.csprojResolveAssemblyReference.cache
+D:\软件包\AutofacDemo\NonIocDemo\obj\Debug\NonIocDemo.exe
+D:\软件包\AutofacDemo\NonIocDemo\obj\Debug\NonIocDemo.pdb
